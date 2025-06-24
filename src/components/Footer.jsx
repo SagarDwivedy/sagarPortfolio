@@ -11,7 +11,7 @@ const Footer = () => {
       >
         <FaInstagram size={24} />
       </a>
-      <a href="https://twitter.comhttps://x.c" target="_blank" rel="noopener noreferrer">
+      <a href="https://x.com/SagarDw1155916" target="_blank" rel="noopener noreferrer">
         <FaXTwitter size={24} />
       </a>
       <a
